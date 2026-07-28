@@ -2,7 +2,7 @@ class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         # i need to create a hashmap.. the key is each number in the lists while the value is a list of their position...
         bucket = {}
-        count = 0
+        duplicate = missing = None
         for i in range(1, len(nums)+1):
             # if i not in bucket.keys():
             bucket[i] = 0
