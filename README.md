@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/1davidadedeji/Leetcode/tree/master/0007-reverse-integer) |
 | [3870-count-commas-in-range](https://github.com/1davidadedeji/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
