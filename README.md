@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/1davidadedeji/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1davidadedeji/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/1davidadedeji/Leetcode/tree/master/0012-integer-to-roman) |
 | [3870-count-commas-in-range](https://github.com/1davidadedeji/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1davidadedeji/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/1davidadedeji/Leetcode/tree/master/0012-integer-to-roman) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/1davidadedeji/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/1davidadedeji/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/1davidadedeji/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/1davidadedeji/Leetcode/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/1davidadedeji/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/1davidadedeji/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Sliding Window
