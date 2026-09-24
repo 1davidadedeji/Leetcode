@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/1davidadedeji/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/1davidadedeji/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1davidadedeji/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/1davidadedeji/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/1davidadedeji/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/1davidadedeji/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/1davidadedeji/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/1davidadedeji/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
