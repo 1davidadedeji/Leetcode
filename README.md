@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0814-binary-tree-pruning](https://github.com/1davidadedeji/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1davidadedeji/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0814-binary-tree-pruning](https://github.com/1davidadedeji/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1davidadedeji/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/1davidadedeji/Leetcode/tree/master/0011-container-with-most-water) |
 | [0835-image-overlap](https://github.com/1davidadedeji/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1davidadedeji/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1davidadedeji/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/1davidadedeji/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1davidadedeji/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1davidadedeji/Leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/1davidadedeji/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/1davidadedeji/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/1davidadedeji/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/1davidadedeji/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/1davidadedeji/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/1davidadedeji/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1davidadedeji/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1davidadedeji/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1davidadedeji/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -254,4 +260,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1davidadedeji/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
