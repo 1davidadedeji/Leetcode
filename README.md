@@ -2,27 +2,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0814-binary-tree-pruning](https://github.com/1davidadedeji/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1davidadedeji/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0814-binary-tree-pruning](https://github.com/1davidadedeji/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1254-number-of-closed-islands](https://github.com/1davidadedeji/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1davidadedeji/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1davidadedeji/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0814-binary-tree-pruning](https://github.com/1davidadedeji/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/1davidadedeji/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/1davidadedeji/Leetcode/tree/master/0011-container-with-most-water) |
 | [0835-image-overlap](https://github.com/1davidadedeji/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/1davidadedeji/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -50,19 +50,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/1davidadedeji/Leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1davidadedeji/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/1davidadedeji/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/1davidadedeji/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/1davidadedeji/Leetcode/tree/master/0009-palindrome-number) |
@@ -81,14 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/1davidadedeji/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/1davidadedeji/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/1davidadedeji/Leetcode/tree/master/0010-regular-expression-matching) |
 | [3483-unique-3-digit-even-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1davidadedeji/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/1davidadedeji/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/1davidadedeji/Leetcode/tree/master/0013-roman-to-integer) |
@@ -102,8 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1davidadedeji/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1davidadedeji/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/1davidadedeji/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/1davidadedeji/Leetcode/tree/master/0006-zigzag-conversion) |
@@ -133,20 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/1davidadedeji/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/1davidadedeji/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/1davidadedeji/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1davidadedeji/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1davidadedeji/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1davidadedeji/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/1davidadedeji/Leetcode/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/1davidadedeji/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1davidadedeji/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/1davidadedeji/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/1davidadedeji/Leetcode/tree/master/0022-generate-parentheses) |
@@ -163,18 +163,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/1davidadedeji/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1davidadedeji/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1davidadedeji/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/1davidadedeji/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/1davidadedeji/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/1davidadedeji/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/1davidadedeji/Leetcode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/1davidadedeji/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/1davidadedeji/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -185,16 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/1davidadedeji/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/1davidadedeji/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/1davidadedeji/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/1davidadedeji/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1davidadedeji/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/1davidadedeji/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/1davidadedeji/Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/1davidadedeji/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/1davidadedeji/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/1davidadedeji/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -203,41 +203,41 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/1davidadedeji/Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/1davidadedeji/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0835-image-overlap](https://github.com/1davidadedeji/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/1davidadedeji/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1davidadedeji/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1davidadedeji/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1davidadedeji/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/1davidadedeji/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/1davidadedeji/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/1davidadedeji/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/1davidadedeji/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1davidadedeji/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/1davidadedeji/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/1davidadedeji/Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/1davidadedeji/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/1davidadedeji/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -250,15 +250,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/1davidadedeji/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/1davidadedeji/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/1davidadedeji/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1davidadedeji/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/1davidadedeji/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -272,39 +272,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/1davidadedeji/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/1davidadedeji/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/1davidadedeji/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/1davidadedeji/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/1davidadedeji/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/1davidadedeji/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/1davidadedeji/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/1davidadedeji/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/1davidadedeji/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/1davidadedeji/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
